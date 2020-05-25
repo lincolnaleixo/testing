@@ -1,0 +1,12 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "robot <lincolnmorais@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "exec-sh": "^0.3.4",
+    "moment": "^2.26.0",
+    "simple-git": "^2.5.0"
+  }
+}
